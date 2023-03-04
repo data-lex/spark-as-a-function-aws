@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: software.amazon.awssdk:aws-core:2.17.189:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.var/app/com.jetbrains.IntelliJ-IDEA-Community/cache/coursier/v1/https/repo1.maven.org/maven2/software/amazon/awssdk/aws-core/2.17.189/aws-core-2.17.189.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
